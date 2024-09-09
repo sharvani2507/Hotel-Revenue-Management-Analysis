@@ -29,7 +29,7 @@ To run the analysis and models, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/hotel-revenue-management
+    git clone https://github.com/sharvani2507/Hotel-Revenue-Management-Analysis
     ```
 2. Navigate to the project directory:
     ```bash
@@ -48,7 +48,6 @@ To run the analysis and models, follow these steps:
 ```bash
 hotel-revenue-management/
 ├── README.md
-├── requirements.txt
 ├── data/
 │   ├── hotel.csv
 │   └── hotel_bookings.csv
@@ -57,16 +56,8 @@ hotel-revenue-management/
 │   ├── Dynamic pricing.ipynb
 │   ├── Cancellation prediction.ipynb
 │   └── Events and Promotion period.ipynb
-├── reports/
-│   └── Krack The Hack - Triad of Trends.pdf
-├── models/
-│   ├── xgboost_dynamic_pricing.pkl
-│   ├── knn_customer_segmentation.pkl
-│   └── nn_cancellation_prediction.h5
-└── results/
-    ├── pricing_analysis.png
-    ├── segmentation_report.pdf
-    └── cancellation_model_evaluation.txt
+└── reports/
+    └── Krack The Hack - Triad of Trends.pdf
 ```
 
 ## Project Results  
