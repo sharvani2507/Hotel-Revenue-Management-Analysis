@@ -29,15 +29,15 @@ To run the analysis and models, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sharvani2507/Hotel-Revenue-Management-Analysis
+    git clone https://github.com/sharvani2507/Hotel-Revenue-Management-Analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd hotel-revenue-management
+    cd Hotel-Revenue-Management-Analysis
     ```
 3. Install the required Python libraries:
     ```bash
-    pip install -r requirements.txt
+    pip install pandas numpy scikit-learn xgboost matplotlib
     ```
 4. Run the Jupyter notebooks to execute the analysis:
     ```bash
