@@ -21,7 +21,7 @@ This project analyzes various aspects of hotel revenue management, including dyn
 
 ## Technologies Used  
 - **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib 
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, TensorFlow, Keras
 - **Tools:** Jupyter Notebook, Git
 
 ## Build Instructions  
